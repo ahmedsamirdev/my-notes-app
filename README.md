@@ -2,7 +2,7 @@
 
 A simple notes app to help you never forget what to do.
 
-### Description
+### Tech stack
 
 - HTML
 - CSS
